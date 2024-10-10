@@ -24,7 +24,7 @@
 <hr/>
 <h4>Miscellaneous</h4>
 <ul>
-  <li>Minesweeper.js - One of my very first personal projects back after I had completed my minor and taught myself HTML,CSS & JavaScript </li>
+  <li>Minesweeper.js - One of my very first personal projects back after I had completed my minor and taught myself some HTML,CSS & JavaScript </li>
   <li>Item.java & MyExpense.java -  Reads & Writes item data to an output text file.</li>
   <li>Student,Team & TeamDriver.java - Program that uses generic types in Java to make teams.</li>
 </ul>
