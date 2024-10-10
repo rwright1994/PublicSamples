@@ -30,4 +30,4 @@
 </ul>
 <hr/><br/>
 <h4>Additonal Information</h4>
-<p>By no means is this an extensive list of things that I have programed or done. I have programmed for an embbed system, created various C/C++ applications to perform certain tasks and have experience hosting a service on firebase/AWS.</p>
+<p>By no means is this an extensive list of things that I have programed or done. I have programmed for an embbed system, created various C/C++ applications to perform certain tasks and have experience hosting a service on firebase/AWS. More files maybe added over time.</p>
