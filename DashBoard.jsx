@@ -27,7 +27,7 @@ useEffect( () => {
 //  ****************************  React Element  *********************************  //
     
     return(
-        <div className="h-screen">
+        <div>
                     <DashboardSideNav activeNav={activeNav} sideNavTogglerHandler={sideNavTogglerHandler}/>
                     <Outlet context={[user,activeNav, sideNavTogglerHandler]}/>
         </div>
