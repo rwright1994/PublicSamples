@@ -10,14 +10,19 @@
   <li>Navbar.jsx</li>
   <li>Server.js</li>
 </ul>
+<h4>Unity Project Files</h4>
+<p>Unity files are from a concept idea for an idle RPG game that I was working on, but have since thought of something that I personally like better than an idle game. Some code will be refactored and migrated over to the new project as it will have some similar systems.</p>
 <hr/>
 <br/>
 <h4>School Project (Current Team Lead) - Completion by the first week of Dec </h4>
 <ul>
   <li>Dashboard.jsx</li>
   <li>DashboardHome.jsx</li>
+  <li>MedicalItem.jsx</li>
   <li>DashboardProfile.jsx</li>
   <li>DashboardSideNav.jsx</li>
+  <li>SelectorField.jsx</li>
+  <li>SingleInputField.jsx</li>
   <li>DoubleInputField.jsx</li>
 </ul>
 <br/>
