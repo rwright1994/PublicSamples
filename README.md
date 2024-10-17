@@ -2,14 +2,6 @@
 <h3>Web Development</h3> <hr/>
 <p></p>All files are currently a work in progress for other applications. One application is for a project that has the potential to be commercialized if the applciation meets quality standards set by the professor and only includes parts I have worked on. The main idea of the application is centralized around Healthcare services. The other set of JSX files are for a personal project related to a business website that may be used to provide specialized services in cybersecurity & IT. Both are being developed using the MERN (MongoDB, ExpressJS ReactJS and Node.js) stack as well as TailwindCSS. The miscellaneous files are random samples of either small projects or assignments.</p>
 
-<h4>Personal Project Files - Suspended but in Progress</h4>
-<ul>
-  <li>Home.jsx - Has not been refactored for components</li>
-  <li>HeroBanner.jsx</li>
-  <li>BannerMessage.jsx</li>
-  <li>Navbar.jsx</li>
-  <li>Server.js</li>
-</ul>
 <h4>Unity Project Files</h4>
 <p>Unity files are from a concept idea for an idle RPG game that I was working on, but have since thought of something that I personally like better than an idle game. Some code will be refactored and migrated over to the new project as it will have some similar systems.</p>
 <hr/>
